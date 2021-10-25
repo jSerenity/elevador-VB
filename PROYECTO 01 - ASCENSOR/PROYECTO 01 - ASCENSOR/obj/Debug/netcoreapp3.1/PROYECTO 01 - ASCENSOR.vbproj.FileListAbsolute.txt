@@ -1,0 +1,16 @@
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\bin\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.exe
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\bin\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.deps.json
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\bin\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.runtimeconfig.json
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\bin\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.runtimeconfig.dev.json
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\bin\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.dll
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\bin\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.pdb
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO_01___ASCENSOR.Form1.resources
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO_01___ASCENSOR.Resources.resources
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.vbproj.GenerateResource.cache
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.AssemblyInfoInputs.cache
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.AssemblyInfo.vb
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.vbproj.CoreCompileInputs.cache
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.dll
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.pdb
+C:\Users\jpinzon\source\repos\PROYECTO 01 - ASCENSOR\PROYECTO 01 - ASCENSOR\obj\Debug\netcoreapp3.1\PROYECTO 01 - ASCENSOR.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PROYECTO 01 - ASCENSOR/1.0.0": {
+        "runtime": {
+          "PROYECTO 01 - ASCENSOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROYECTO 01 - ASCENSOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jpinzon\\source\\repos\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jpinzon\\source\\repos\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jpinzon\\source\\repos\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR.vbproj",
+        "projectName": "PROYECTO 01 - ASCENSOR",
+        "projectPath": "C:\\Users\\jpinzon\\source\\repos\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR.vbproj",
+        "packagesPath": "C:\\Users\\jpinzon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpinzon\\source\\repos\\PROYECTO 01 - ASCENSOR\\PROYECTO 01 - ASCENSOR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpinzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
